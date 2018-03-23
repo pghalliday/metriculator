@@ -1,0 +1,29 @@
+{
+  "name": "metriculator",
+  "version": "1.0.0",
+  "description": "Track changes on metrics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pghalliday/metriculator.git"
+  },
+  "keywords": [
+    "metrics",
+    "cli",
+    "check",
+    "test"
+  ],
+  "author": "Peter Halliday <pghalliday@gmail.com> (https://pghalliday.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pghalliday/metriculator/issues"
+  },
+  "homepage": "https://github.com/pghalliday/metriculator#readme",
+  "dependencies": {
+    "asciichart": "1.5.7",
+    "blessed": "0.1.81"
+  }
+}
